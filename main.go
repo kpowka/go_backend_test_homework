@@ -8,6 +8,7 @@ func Add(a, b int) int {
 	return a + b
 }
 
+// coment
 func main() {
 	fmt.Println("Я домашка")
 }
